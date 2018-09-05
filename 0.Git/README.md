@@ -8,6 +8,6 @@
 ..*index.html
 ..*index.css
 6. Open a cmd and run the following commands:
-..*`git add .`
-..*`git commit -m 'Initial commit'`
-..*`git push -u origin master` (May need to login for it to work)
+..* `git add .`
+..* `git commit -m 'Initial commit'`
+..* `git push -u origin master` (May need to login for it to work)
